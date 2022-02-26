@@ -1,4 +1,4 @@
-#Covid-19 Detection using Deep Learning
+# Covid-19 Detection using Deep Learning
 
 The aim of the project is to detect Covid-19 positive or negative using Deep Learning
 
@@ -11,10 +11,10 @@ Keras
 Tensorflow
 CNN
 
-                                                                          #Deep Learning
+                                                                           Deep Learning
 Deep Learning has proved to be a very powerful tool because of its ability to handle large amounts of data. The interest to use hidden layers has surpassed traditional techniques, especially in pattern recognition. One of the most popular deep neural networks is Convolutional Neural Networks.
 
-                                                                              #CNN
+                                                                              CNN
 A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other.
 There are two main parts to a CNN architecture:
 
