@@ -11,15 +11,17 @@ Keras
 Tensorflow
 CNN
 
-                                                                           Deep Learning
+                                                                        Deep Learning
 Deep Learning has proved to be a very powerful tool because of its ability to handle large amounts of data. The interest to use hidden layers has surpassed traditional techniques, especially in pattern recognition. One of the most popular deep neural networks is Convolutional Neural Networks.
 
-                                                                              CNN
+                                                                            CNN
 A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other.
 There are two main parts to a CNN architecture:
 
 A convolution tool that separates and identifies the various features of the image for analysis in a process called as Feature Extraction
 A fully connected layer that utilizes the output from the convolution process and predicts the class of the image based on the features extracted in previous stages.
+
+
 ![image](https://user-images.githubusercontent.com/73229831/155855331-9175fb51-1406-4405-9055-a3763ab5fd6c.png)
 
 # Dataset 
